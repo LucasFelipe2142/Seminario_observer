@@ -12,6 +12,10 @@ O projeto consiste em três classes principais:
 
 - `Message`: Representa uma mensagem no sistema. Possui um conteúdo que pode ser obtido através do método `getContent()`.
 
+## UML
+
+![Captura de tela de 2023-06-15 23-08-32](https://github.com/LucasFelipe2142/Seminario_observer/assets/106194018/4fa4ff00-7641-487f-8907-5b8b04ed0ab5)
+
 ## Uso do Exemplo
 
 O exemplo de código está contido nos arquivos `Main.java`, `MessageManager.java`, `MessageDisplay.java` e `Message.java`. O arquivo `Main.java` contém o método `main` que demonstra a utilização do padrão Observer.
@@ -41,6 +45,11 @@ java Main
 ```
 
 5. Verifique a saída no console para ver as mensagens exibidas pelos observadores.
+
+## PDF de referencia
+
+[Seminario_Observer_Command.pdf](https://github.com/LucasFelipe2142/Seminario_observer/files/11770405/Seminario_Observer_Command.pdf)
+
 
 ## Autor
 
